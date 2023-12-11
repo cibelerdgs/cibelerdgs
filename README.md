@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cibele Rodrigues! I'm from Brazil.
+- 💻 I’m currently learning Computer Science.
+- 📫 How to reach me: http://www.linkedin.com/in/cibele-rodrigues-2875112a2
